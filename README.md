@@ -16,7 +16,7 @@
 
 **数据集**：COVID19 Global Forecasting (Week 5)
 
-**注**：数据集处理代码、数据挖掘代码以及挖掘过程报告已经按照一定的顺序整理在这个notebook中  
+**注**：数据集处理代码、数据挖掘代码以及挖掘过程报告已经按照一定的顺序整理在[analysis.ipynb](analysis.ipynb.rar)中  
 **运行建议**：如果要对本课程项目代码进行运行，只需要把该notebook与数据集放在同一个目录下运行即可
 
 ![image](https://github.com/ChengchengDu/data_mining_project/blob/master/Snipaste_2020-07-03_16-11-22.png)
